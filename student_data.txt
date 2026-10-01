@@ -1,0 +1,4 @@
+Student Name: Harish
+Course: BCA
+Subject: Python and Bash
+Assignment: File Handling
